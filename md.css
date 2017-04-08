@@ -2,6 +2,7 @@
 /** * vscode-markdown.css */
 /*/h1, h2, h3, h4, h5, h6, p, blockquote { margin: 0; padding: 0;}*/
 body, code, pre { font-family: Consolas, 微软雅黑;}
+
 /*table { margin: 10px 0 15px 0; border-collapse: collapse;}
 td, th { border: 1px solid #ddd; padding: 3px 10px;}
 th { padding: 5px 10px; }
